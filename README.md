@@ -1,5 +1,5 @@
 # tracker
-this is to track usdt arb prices
+Tracker for USDT arbitrage price discrepancies
 
 Developed a Python script utilizing requests and the bitbnspy library to capture real-time price data from exchanges such as CoinDCX and Bitbns.
 Implemented algorithms to calculate price spreads and trigger customized alerts via Telegram messages for informed trading decisions.
